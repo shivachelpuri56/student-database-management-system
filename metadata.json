@@ -1,0 +1,9 @@
+{
+  "name": "Student Database Management System with Conversational AI",
+  "description": "Full-stack academic capstone system featuring student records management, Supabase PostgreSQL support, REST APIs with Swagger docs, and database-grounded conversational AI powered by Google Gemini and LangGraph-style workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
